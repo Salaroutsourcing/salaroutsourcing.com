@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://salaroutsourcing.com/sitemap.xml
+Sitemap: https://www.salaroutsourcing.com/sitemap.xml

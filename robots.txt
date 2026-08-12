@@ -1,4 +1,4 @@
+# Redirect stubs for https://salaroutsourcing.com → https://immigration.salaroutsourcing.com
 User-agent: *
 Allow: /
-
-Sitemap: https://www.salaroutsourcing.com/sitemap.xml
+Sitemap: https://salaroutsourcing.com/sitemap.xml
